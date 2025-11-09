@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name: Restrict WordPress Feed
- * Plugin URI: https://github.com/yourusername/restrict-wordpress-feed
+ * Plugin URI: https://github.com/SenalKaranda/Wordpress-Restrict-Feed
  * Description: Removes posts with the "private" tag from all RSS feeds (main, category, tag, author, etc.) in all formats (RSS 2.0, Atom, RDF).
  * Version: 1.0.0
- * Author: Your Name
- * Author URI: https://yourwebsite.com
+ * Author: Senal Karanda
+ * Author URI: https://senal.dev
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: restrict-wordpress-feed
+ * Text Domain: wordpress-restrict-feed
  */
 
 // Exit if accessed directly
